@@ -1,0 +1,1 @@
+msgbox "‚±‚ÌPC‚ÍRED_ZONE.exe‚É‚æ‚èè‹’‚³‚ê‚Ü‚µ‚½B"& vbCr &"‚¨‚Æ‚È‚µ‚­‰aH‚É‚È‚è‚È‚³‚¢B",,"RED_ZONE.exe‚æ‚è"
